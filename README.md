@@ -1,26 +1,16 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# My very first Web Page
 
 
-Hi there! Welcome to Cloud9 IDE!
+Welcome to my very first website!
 
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
+This website was built as part of the training for the Code Institute`s Fullstack Web Developer program.
 
 
-## Support & Documentation
 
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+# Project Description
+This site was created in order for me to get familoiar with common developments tools like the Git,Github and Cloud9 and also how to use these development tools to write and manage codes.
+
+
+
+# Technology
+ This projeect was written in HTML & CSS using Cloud9 and currently hosted on Github pages.
